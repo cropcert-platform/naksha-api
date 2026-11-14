@@ -8,7 +8,7 @@
 
 The API of Naksha, the map component used by the CropCert platform for geospatial data and layers.
 
-This repository is part of the [CropCert Platform](https://github.com/cropcert-platform), an open-source platform for coffee certification and traceability that helps small growers add value to their coffee and reach better markets.
+This repository is part of the [CropCert Platform](https://github.com/cropcert-platform), an open-source platform for crop certification and traceability that helps small growers add value to their crop and reach better markets.
 
 ## ✨ Features
 
